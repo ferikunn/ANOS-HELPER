@@ -1,3 +1,6 @@
+TRUTH = (
+    "Apakah kamu pernah membuat hantu seseorang?"
+    
 What is the most attractive and sexy part of your body?
 What kind of men and women do you like? 
 Who is most like the ideal? 
